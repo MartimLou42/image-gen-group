@@ -2,7 +2,7 @@
 
 A web app that restyles a photo with AI. You upload a photo, pick an art style (or describe your own), and get back a transformed version you can compare and download.
 
-Live site: https://martimlou95.github.io/image-gen-group/
+Live site: https://martimlou42.github.io/image-gen-group/
 
 Group project for three people, built with HTML, CSS, and JavaScript, using the OpenAI image API.
 
